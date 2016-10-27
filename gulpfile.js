@@ -1,4 +1,3 @@
-// All used modules.
 var gulp = require('gulp');
 var babel = require('gulp-babel');
 var runSeq = require('run-sequence');
