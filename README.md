@@ -3,4 +3,4 @@ A nautical-themed, fast-paced animated word game inspired by Boggle. Find as man
 
 Final capstone project for Fullstack Academy's Software Engineering Immersive (July-October 2016).
 
-Play it at: www.grab-gab.com.
+Live at: www.grab-gab.com
